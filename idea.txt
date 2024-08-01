@@ -1,0 +1,17 @@
+Voting App
+
+ist thing cretae server,
+cteate model,
+create routes,
+
+function-
+1. user sing in
+2. list of candidate
+3. vote of candidate
+4. route show the list and count voted
+5. user can chang the password
+6. user login only aadhar card number and password
+
+routes-
+user authentication login/ signup
+voting candidate list and voted
